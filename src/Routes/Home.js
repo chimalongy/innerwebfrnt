@@ -7,6 +7,7 @@ import Trust from '../Components/Trust'
 import NewLetter from '../Components/NewsLetter'
 import Testimonials from '../Components/Testimonials'
 
+
 export default function Home() {
   return (
     <div>
